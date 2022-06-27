@@ -1,0 +1,26 @@
+
+body {
+    background-image: url("html.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ img {
+     width: 50px;
+     height: 50px;
+ }
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+  .active-link  {
+    background-color: rgb(66, 66, 35);
+    
+  }
+
+  .nav-item:hover {background-color: rgb(66, 66, 35);}
+
+
+ 
